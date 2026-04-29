@@ -1,0 +1,13 @@
+{
+  "name": "digital-recruiter-marketplace",
+  "owner": {
+    "name": "Mady Willcox"
+  },
+  "plugins": [
+    {
+      "name": "digital-recruiter-content-engine",
+      "source": "./digital-recruiter-content-engine",
+      "description": "Digital Recruiter Content Studio — turns recruiter and agency-owner expertise into LinkedIn content that sounds like the operator, not AI."
+    }
+  ]
+}
