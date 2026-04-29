@@ -1,0 +1,9 @@
+{
+  "name": "digital-recruiter-content-engine",
+  "version": "0.1.0",
+  "description": "Digital Recruiter Content Studio — turns recruiter and agency-owner expertise into LinkedIn content that sounds like the operator, not AI. Onboarding, interviews, 16-post content batches, long-form newsletters, and an async Cowork mode.",
+  "author": {
+    "name": "Mady Willcox"
+  },
+  "keywords": ["linkedin", "content", "recruiting", "ghostwriting", "interview", "newsletter"]
+}
